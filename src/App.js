@@ -1,13 +1,14 @@
 import Nav from './Components/Nav';
 import Home from './Components/Home';
 import Project from './Components/Project';
+import Footer from './Components/Footer';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 function App() {
   return (
     <Router>
       <div className="App">
         <Nav/>
-        <div className="Home">
+        <>
           <Switch>
             <Route exact path="/">
               <Home/>
@@ -16,7 +17,8 @@ function App() {
               <Project/>
             </Route>
           </Switch>
-        </div>
+        </>
+        <Footer/>
       </div>
     </Router>
   );
