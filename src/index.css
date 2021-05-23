@@ -108,7 +108,8 @@
   line-height: 1.5;
 }
 .project-intro .links {
-  text-align: center;
+  display: flex;
+  justify-content: center;
   padding: 10px;
   margin: -10px 0 20px 0;
 }
@@ -208,8 +209,9 @@ a.instagram {
   display: flex;
 }
 .project .sandbox-link {
+  display: flex;
   padding: 10px;
-  margin: 20px 10px 10px 12px;
+  margin: 10px 10px 10px 12px;
 }
 .project .sandbox-link a{
   color:white;
@@ -220,8 +222,9 @@ a.instagram {
   border-radius: 8px;
 }
 .project .github-link {
+  display: flex;
   padding: 10px;
-  margin: 20px 10px 10px -20px;
+  margin: 10px 10px 10px -20px;
 }
 .project .github-link a{
   color:#BE185D;
