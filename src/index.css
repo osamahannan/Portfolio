@@ -181,6 +181,9 @@ a.instagram {
 }
 .project-container {
   margin: 20px;
+  width: 100%;
+  margin: auto;
+  margin-top: 20px;
 }
 .project .item-1{
   display: flex;
