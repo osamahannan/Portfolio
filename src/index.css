@@ -2,8 +2,8 @@
 * {
   margin: 0;
   font-family: 'Poppins', sans-serif;
-  color: #333;
 }
+/* Nav Bar*/
 .Nav-bar {
   background-color: #BE185D;
   padding: 20px;
@@ -29,13 +29,7 @@
 .Nav-bar b{
   color: white;
 }
-.projects {
-  display:flex;
-  justify-content: center;
-  max-width: 600px;
-  margin:auto;
-  padding:20px;
-}
+/*Home*/
 .Home {
   display:flex;
   justify-content: center;
@@ -130,17 +124,17 @@
 .footer {
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: #BE185D;
   padding: 20px;
   justify-content: center;
   max-width: 600px;
   margin: auto;
   margin-top:40px;
   color: white;
+  border-radius: 16px 16px 0 0;;
 }
 .footer .footer-header {
   text-align: center;
-  color: rgb(43, 41, 41);
   font-size: 17px;
   font-weight: bolder;
   margin: 20px 0 0 0;
@@ -158,6 +152,88 @@
 a.social {
   margin: 0 1rem;
 }
+a.github {
+  color: white;
+}
+a.linkedin {
+  color: black;
+}
+a.instagram {
+  color: rgb(0, 204, 255);
+}
+/* projects */
+.project {
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 600px;
+  margin:auto;
+  margin-top: 30px;
+  padding:20px;
+}
+.project-title {
+  display: flex;
+  max-width: 500px;
+  margin:auto;
+  padding: 10px;
+  background-color: white;
+}
+.project-container {
+  margin: 20px;
+}
+.project .item-1{
+  display: flex;
+  font-size: 22px;
+}
+.project .number {
+  margin-bottom: auto;
+  margin: 5px 0 -5px 0;
+  font-size: 20px;
+}
+.project .heading {
+  color: rgb(66, 63, 63);
+  font-weight: 800;
+  margin-left: 6px;
+}
+.project .time1 {
+  margin: 10px 0 10px 23px;
+  font-size: 15px;
+}
+.project .about-app {
+  margin: 10px 0 10px 23px;
+  font-size: 17px;
+  line-height: 1.5;
+}
+.project .sandgit-links {
+  display: flex;
+}
+.project .sandbox-link {
+  padding: 10px;
+  margin: 20px 10px 10px 12px;
+}
+.project .sandbox-link a{
+  color:white;
+  font-size: 17px;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+  background-color: #BE185D;
+  border-radius: 8px;
+}
+.project .github-link {
+  padding: 10px;
+  margin: 20px 10px 10px -20px;
+}
+.project .github-link a{
+  color:#BE185D;
+  font-size: 17px;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 1px solid #BE185D
+}
+
+
+
 
 
 
