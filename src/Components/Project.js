@@ -28,11 +28,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/zen-rosalind-8c92o">Open App</a>
+                        <a href="https://codesandbox.io/s/zen-rosalind-8c92o" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="https://github.com/osamahannan/React_Weather-App">View Source</a>
+                        <a href="https://github.com/osamahannan/React_Weather-App" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
@@ -60,11 +60,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="/#">Open App</a>
+                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="/#">View Source</a>
+                        <a href="/#" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
@@ -90,11 +90,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="/#">Open App</a>
+                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="/#">View Source</a>
+                        <a href="/#" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
@@ -119,11 +119,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/busy-liskov-bouz2">Open App</a>
+                        <a href="https://codesandbox.io/s/busy-liskov-bouz2" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="https://github.com/osamahannan/React_TodoList">View Source</a>
+                        <a href="https://github.com/osamahannan/React_TodoList" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
@@ -149,11 +149,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/elated-lovelace-ykniy">Open App</a>
+                        <a href="https://codesandbox.io/s/elated-lovelace-ykniy" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="https://github.com/osamahannan/iCoder-blog">View Source</a>
+                        <a href="https://github.com/osamahannan/iCoder-blog" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
@@ -179,11 +179,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/modest-wildflower-cbeir">Open App</a>
+                        <a href="https://codesandbox.io/s/modest-wildflower-cbeir" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="https://github.com/osamahannan/iClock">View Source</a>
+                        <a href="https://github.com/osamahannan/iClock" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 

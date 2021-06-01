@@ -10,9 +10,9 @@ const footer = () => {
                 <div className="footer-header">Connect with me on!</div>
             
                     <div className="social-icon">
-                        <a href="https://github.com/osamahannan" target ="_blank" className="github social"><FaGithub/></a>
-                        <a href="https://www.linkedin.com/in/osama-hannan-7337921a0/" target ="_blank" className="linkedin social"><FaLinkedin/></a>
-                        <a href="https://www.instagram.com/osamahannan5/" target ="_blank" className="instagram social"><FaInstagram/></a>
+                        <a href="https://github.com/osamahannan" target ="_blank" rel="noreferrer" className="github social"><FaGithub/></a>
+                        <a href="https://www.linkedin.com/in/osama-hannan-7337921a0/" target ="_blank" rel="noreferrer" className="linkedin social"><FaLinkedin/></a>
+                        <a href="https://www.instagram.com/osamahannan5/" target ="_blank" rel="noreferrer" className="instagram social"><FaInstagram/></a>
                     </div>
             
             </footer>
