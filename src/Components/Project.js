@@ -60,11 +60,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="#">Open App</a>
+                        <a href="/#">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="#">View Source</a>
+                        <a href="/#">View Source</a>
                     </div>
                 </div>
 
@@ -90,11 +90,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="#">Open App</a>
+                        <a href="/#">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="#">View Source</a>
+                        <a href="/#">View Source</a>
                     </div>
                 </div>
 
