@@ -13,39 +13,10 @@ const Project = () => {
             <div className="project-container">
                 <div className="item-1">
                     <div className="number"> 1.</div>
-                    <div className="heading"> Wether App</div>
-                </div>
-
-                <div className="time1">15th february, 2021</div>
-
-                <div className="about-app">
-                    <article>
-                        <p>
-                            Created an app in React-JS to gives the weather information of a particular city in any country.
-                        </p>
-                    </article>
-                </div>
-
-                <div className="sandgit-links">
-                    <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/zen-rosalind-8c92o" target ="_blank" rel="noreferrer">Open App</a>
-                    </div>
-
-                    <div className="github-link">
-                        <a href="https://github.com/osamahannan/React_Weather-App" target ="_blank" rel="noreferrer">View Source</a>
-                    </div>
-                </div>
-
-            </div>
-
-
-            <div className="project-container">
-                <div className="item-1">
-                    <div className="number"> 2.</div>
                     <div className="heading"> Tic Tac Toe Game</div>
                 </div>
 
-                <div className="time1">5th february, 2021</div>
+                <div className="time1">15th february, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -60,11 +31,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="https://tic-tac-toe-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
-                        <a href="/#" target ="_blank" rel="noreferrer">View Source</a>
+                        <a href="https://github.com/osamahannan/Tic_Tac_Toe-Game" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
@@ -73,11 +44,99 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">3.</div>
+                    <div className="number"> 2.</div>
+                    <div className="heading"> Food Delivery App</div>
+                </div>
+
+                <div className="time1">5th february, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app using HTML and CSS.It represents the various food services like food orering ,catering, etc.
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://food-delivery-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/Food_Delivery-App" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number"> 3.</div>
+                    <div className="heading"> Analog Clock </div>
+                </div>
+
+                <div className="time1">20th January, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app using HTML CSS and JavaSript. A simple analog clock which represent the current time.
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://analog-clock-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/Analoge-clock" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number"> 4.</div>
+                    <div className="heading"> Wether App</div>
+                </div>
+
+                <div className="time1">10th January, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app in React-JS to gives the weather information of a particular city in any country.
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/React_Weather-App" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number">5.</div>
                     <div className="heading"> Snake game</div>
                 </div>
 
-                <div className="time1">1st february, 2021</div>
+                <div className="time1">1st January, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -103,11 +162,11 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 4.</div>
+                    <div className="number"> 6.</div>
                     <div className="heading"> TodoList App</div>
                 </div>
 
-                <div className="time1">20th January, 2021</div>
+                <div className="time1">20th December, 2020</div>
 
                 <div className="about-app">
                     <article>
@@ -119,71 +178,11 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/busy-liskov-bouz2" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
                         <a href="https://github.com/osamahannan/React_TodoList" target ="_blank" rel="noreferrer">View Source</a>
-                    </div>
-                </div>
-
-            </div>
-
-
-            <div className="project-container">
-                <div className="item-1">
-                    <div className="number"> 5.</div>
-                    <div className="heading"> iCoder Blog App</div>
-                </div>
-
-                <div className="time1">15th January, 2021</div>
-
-                <div className="about-app">
-                    <article>
-                        <p>
-                            Created an app using Bootstrap.It represents the blogs on various trending topics
-                            and technologies.
-                        </p>
-                    </article>
-                </div>
-
-                <div className="sandgit-links">
-                    <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/elated-lovelace-ykniy" target ="_blank" rel="noreferrer">Open App</a>
-                    </div>
-
-                    <div className="github-link">
-                        <a href="https://github.com/osamahannan/iCoder-blog" target ="_blank" rel="noreferrer">View Source</a>
-                    </div>
-                </div>
-
-            </div>
-
-
-            <div className="project-container">
-                <div className="item-1">
-                    <div className="number"> 6.</div>
-                    <div className="heading"> iClock </div>
-                </div>
-
-                <div className="time1">5th January, 2021</div>
-
-                <div className="about-app">
-                    <article>
-                        <p>
-                            Created an app in JavaSript. a simple digital clock which represent the current
-                            time zone and date of a particular country.
-                        </p>
-                    </article>
-                </div>
-
-                <div className="sandgit-links">
-                    <div className="sandbox-link">
-                        <a href="https://codesandbox.io/s/modest-wildflower-cbeir" target ="_blank" rel="noreferrer">Open App</a>
-                    </div>
-
-                    <div className="github-link">
-                        <a href="https://github.com/osamahannan/iClock" target ="_blank" rel="noreferrer">View Source</a>
                     </div>
                 </div>
 
