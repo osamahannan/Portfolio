@@ -44,11 +44,41 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 2.</div>
+                    <div className="number">2.</div>
+                    <div className="heading"> Snake game</div>
+                </div>
+
+                <div className="time1">5th February, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app in JavaScript. Snake game is a computer action game, whose goal
+                            is to control a snake to move and collect food in a map.
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://snake-mania.netlify.app" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/Snake-Game" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number"> 3.</div>
                     <div className="heading"> Food Delivery App</div>
                 </div>
 
-                <div className="time1">5th february, 2021</div>
+                <div className="time1">1st february, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -73,7 +103,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 3.</div>
+                    <div className="number"> 4.</div>
                     <div className="heading"> Analog Clock </div>
                 </div>
 
@@ -100,10 +130,9 @@ const Project = () => {
             </div>
 
 
-
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 4.</div>
+                    <div className="number"> 5.</div>
                     <div className="heading"> Wether App</div>
                 </div>
 
@@ -128,37 +157,7 @@ const Project = () => {
                 </div>
 
             </div>
-
-
-            <div className="project-container">
-                <div className="item-1">
-                    <div className="number">5.</div>
-                    <div className="heading"> Snake game</div>
-                </div>
-
-                <div className="time1">1st January, 2021</div>
-
-                <div className="about-app">
-                    <article>
-                        <p>
-                            Created an app in JavaScript. Snake game is a computer action game, whose goal
-                            is to control a snake to move and collect food in a map.
-                        </p>
-                    </article>
-                </div>
-
-                <div className="sandgit-links">
-                    <div className="sandbox-link">
-                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
-                    </div>
-
-                    <div className="github-link">
-                        <a href="/#" target ="_blank" rel="noreferrer">View Source</a>
-                    </div>
-                </div>
-
-            </div>
-
+ 
 
             <div className="project-container">
                 <div className="item-1">
