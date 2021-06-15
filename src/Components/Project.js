@@ -130,64 +130,6 @@ const Project = () => {
             </div>
 
 
-            <div className="project-container">
-                <div className="item-1">
-                    <div className="number"> 5.</div>
-                    <div className="heading"> Wether App</div>
-                </div>
-
-                <div className="time1">10th January, 2021</div>
-
-                <div className="about-app">
-                    <article>
-                        <p>
-                            Created an app in React-JS to gives the weather information of a particular city in any country.
-                        </p>
-                    </article>
-                </div>
-
-                <div className="sandgit-links">
-                    <div className="sandbox-link">
-                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
-                    </div>
-
-                    <div className="github-link">
-                        <a href="https://github.com/osamahannan/React_Weather-App" target ="_blank" rel="noreferrer">View Source</a>
-                    </div>
-                </div>
-
-            </div>
- 
-
-            <div className="project-container">
-                <div className="item-1">
-                    <div className="number"> 6.</div>
-                    <div className="heading"> TodoList App</div>
-                </div>
-
-                <div className="time1">20th December, 2020</div>
-
-                <div className="about-app">
-                    <article>
-                        <p>
-                            Created an app in React-JS to store your Todo list with a specific deadline.
-                        </p>
-                    </article>
-                </div>
-
-                <div className="sandgit-links">
-                    <div className="sandbox-link">
-                        <a href="/#" target ="_blank" rel="noreferrer">Open App</a>
-                    </div>
-
-                    <div className="github-link">
-                        <a href="https://github.com/osamahannan/React_TodoList" target ="_blank" rel="noreferrer">View Source</a>
-                    </div>
-                </div>
-
-            </div>
-
-
         </div>
     );
 }
