@@ -74,7 +74,36 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 3.</div>
+                    <div className="number">3.</div>
+                    <div className="heading"> TodoList App</div>
+                </div>
+
+                <div className="time1">20th June, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app using React.Js . It is an application that allows to manage a list of tasks to do. It performs adding, updating, deleting and toggling state of each task. You can see it working here:
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://todolist-react-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/React_TodoList-App" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number"> 4.</div>
                     <div className="heading"> Food Delivery App</div>
                 </div>
 
@@ -103,7 +132,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 4.</div>
+                    <div className="number"> 5.</div>
                     <div className="heading"> Analog Clock </div>
                 </div>
 
