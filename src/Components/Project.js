@@ -44,7 +44,36 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">2.</div>
+                    <div className="number"> 2.</div>
+                    <div className="heading"> Weather App </div>
+                </div>
+
+                <div className="time1">20th May, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app using React.Js. A real time weather app which shows current weather of a particular city in the world.
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://waether-app.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/React_Weather-App" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number">3.</div>
                     <div className="heading"> Snake game</div>
                 </div>
 
@@ -74,7 +103,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">3.</div>
+                    <div className="number">4.</div>
                     <div className="heading"> TodoList App</div>
                 </div>
 
@@ -103,7 +132,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 4.</div>
+                    <div className="number"> 5.</div>
                     <div className="heading"> Food Delivery App</div>
                 </div>
 
@@ -132,7 +161,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 5.</div>
+                    <div className="number"> 6.</div>
                     <div className="heading"> Analog Clock </div>
                 </div>
 
