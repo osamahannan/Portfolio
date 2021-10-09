@@ -13,10 +13,39 @@ const Project = () => {
             <div className="project-container">
                 <div className="item-1">
                     <div className="number"> 1.</div>
+                    <div className="heading"> MERN Register </div>
+                </div>
+
+                <div className="time1">15th September, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app using MERN stack. This app allows you to register youself and create a profile of your own. All your data is being stored at the backend in a database using MongoDB.You can also contact and message for any query.
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://mern-osama.herokuapp.com" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/MERN_Register" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number"> 2.</div>
                     <div className="heading"> Tic Tac Toe Game</div>
                 </div>
 
-                <div className="time1">15th february, 2021</div>
+                <div className="time1">25th July, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -31,7 +60,7 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://tic-tac-toe-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="https://tic-tac-toe-carnage.netlify.app" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
@@ -44,11 +73,11 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 2.</div>
+                    <div className="number"> 3.</div>
                     <div className="heading"> Weather App </div>
                 </div>
 
-                <div className="time1">20th May, 2021</div>
+                <div className="time1">20th June, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -60,7 +89,7 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://waether-app.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="https://waether-app.netlify.app" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
@@ -73,11 +102,11 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">3.</div>
+                    <div className="number">4.</div>
                     <div className="heading"> Snake game</div>
                 </div>
 
-                <div className="time1">5th February, 2021</div>
+                <div className="time1">5th April, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -103,11 +132,11 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">4.</div>
+                    <div className="number">5.</div>
                     <div className="heading"> TodoList App</div>
                 </div>
 
-                <div className="time1">20th June, 2021</div>
+                <div className="time1">20th March, 2021</div>
 
                 <div className="about-app">
                     <article>
@@ -119,7 +148,7 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://todolist-react-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="https://todolist-react-carnage.netlify.app" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
@@ -132,7 +161,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 5.</div>
+                    <div className="number"> 6.</div>
                     <div className="heading"> Food Delivery App</div>
                 </div>
 
@@ -148,7 +177,7 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://food-delivery-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="https://food-delivery-carnage.netlify.app" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
@@ -161,7 +190,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 6.</div>
+                    <div className="number"> 7.</div>
                     <div className="heading"> Analog Clock </div>
                 </div>
 
@@ -177,7 +206,7 @@ const Project = () => {
 
                 <div className="sandgit-links">
                     <div className="sandbox-link">
-                        <a href="https://analog-clock-carnage.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                        <a href="https://analog-clock-carnage.netlify.app" target ="_blank" rel="noreferrer">Open App</a>
                     </div>
 
                     <div className="github-link">
