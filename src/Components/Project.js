@@ -9,10 +9,38 @@ const Project = () => {
                 <h1 style={{ color: "#BE185D" }}>Projects </h1>
             </div>
 
+            <div className="project-container">
+                <div className="item-1">
+                    <div className="number">1.</div>
+                    <div className="heading"> CryptoSwitch</div>
+                </div>
+
+                <div className="time1">10th October, 2021</div>
+
+                <div className="about-app">
+                    <article>
+                        <p>
+                            Created an app using React.Js . It is an application that displays all the trending cryptocurrencies. It allows you to add any coin to your wallet and you can update, delete any coin in your wallet. You can see it working here:
+                        </p>
+                    </article>
+                </div>
+
+                <div className="sandgit-links">
+                    <div className="sandbox-link">
+                        <a href="https://cryptoswitch.netlify.app/" target ="_blank" rel="noreferrer">Open App</a>
+                    </div>
+
+                    <div className="github-link">
+                        <a href="https://github.com/osamahannan/CryptoSwitch" target ="_blank" rel="noreferrer">View Source</a>
+                    </div>
+                </div>
+
+            </div>
+
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 1.</div>
+                    <div className="number"> 2.</div>
                     <div className="heading"> MERN Register </div>
                 </div>
 
@@ -41,7 +69,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 2.</div>
+                    <div className="number"> 3.</div>
                     <div className="heading"> Tic Tac Toe Game</div>
                 </div>
 
@@ -73,7 +101,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 3.</div>
+                    <div className="number"> 4.</div>
                     <div className="heading"> Weather App </div>
                 </div>
 
@@ -102,7 +130,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">4.</div>
+                    <div className="number">5.</div>
                     <div className="heading"> Snake game</div>
                 </div>
 
@@ -132,7 +160,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number">5.</div>
+                    <div className="number">6.</div>
                     <div className="heading"> TodoList App</div>
                 </div>
 
@@ -161,7 +189,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 6.</div>
+                    <div className="number"> 7.</div>
                     <div className="heading"> Food Delivery App</div>
                 </div>
 
@@ -190,7 +218,7 @@ const Project = () => {
 
             <div className="project-container">
                 <div className="item-1">
-                    <div className="number"> 7.</div>
+                    <div className="number"> 8.</div>
                     <div className="heading"> Analog Clock </div>
                 </div>
 
