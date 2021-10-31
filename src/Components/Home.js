@@ -19,18 +19,18 @@ const Home = () => {
                 <h2>About Me</h2>
                 <article>
                     <p>I'm currently a student in Babu Banarasi Das Institute.<br />
-                    I started learning web development out of curiosity. Now I want to pursue my career as a full stack web developer, as it's said -
-                    “If passion drives you, let reason hold the reins.”– Benjamin Franklin
+                        I started learning web development out of curiosity. Now I want to pursue my career as a full(MERN) stack developer, as it's said -
+                        “If passion drives you, let reason hold the reins.”– Benjamin Franklin
                     </p>
                 </article>
             </div>
 
 
             <div className="technologies">
-                <h2>Technologies</h2>
+                <h2>Skills</h2>
                 <article>
                     <p>
-                        I'm familiar with HTML5, CSS3, Git, Java, JavaScript, data structures and Web Hosting.
+                        I'm familiar with HTML5, CSS3, JavaScript, React Js, GitHub, Java, data structures and Algorithms.
                     </p>
                 </article>
             </div>
@@ -40,7 +40,7 @@ const Home = () => {
                 <h2>Projects</h2>
                 <article>
                     <p>
-                    I would like to showcase my work and thus, you can see my projects hosted online.
+                        I would like to showcase my work and thus, you can see my projects hosted online.
                     </p>
                 </article>
                 <div className="links">
