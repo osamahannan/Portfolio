@@ -3,10 +3,12 @@ import Home from './Components/Home';
 import Project from './Components/Project';
 import Footer from './Components/Footer';
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import ScrollToTop from './Components/ScrollToTop';
 function App() {
   return (
     <Router>
       <div className="App">
+        <ScrollToTop />
         <Nav/>
         <>
           <Switch>
